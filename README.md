@@ -1,7 +1,7 @@
 ## Education
-- M.S. Applied Data Science (May 2024)
-- M.A. Strategic Public Relations (May 2014)
-- B.A. Communications (May 2012)
+- M.S. Applied Data Science, Syracuse University
+- M.A. Strategic Public Relations, University of Southern California
+- B.A. Communications, Peking University
   
 # Data Science Projects
 
