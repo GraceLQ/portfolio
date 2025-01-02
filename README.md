@@ -1,7 +1,7 @@
 ## Education
-- M.S. Applied Data Science, Syracuse University
-- M.A. Strategic Public Relations, University of Southern California
-- B.A. Communications, Peking University
+M.S. Applied Data Science, Syracuse University
+M.A. Strategic Public Relations, University of Southern California
+B.A. Communications, Peking University
   
 # Data Science Projects
 
