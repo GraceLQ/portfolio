@@ -1,3 +1,10 @@
+## About Me
+I'm a data Scientist with dual master’s degrees in Applied Data Science and Communication, blending technical expertise with compelling storytelling to transform complex data into actionable insights. 
+
+Proficient in Python, R, SQL, Power BI, Google Looker Studio, Google Analytics, and digital advertising platforms, I bring a results-oriented approach to leveraging data to empower organizations and drive measurable success.
+
+With over 10 years of marketing and business consulting experience in healthcare and insurance industries, I excel in data-informed decision-making and strategic consultation, driven by a passion for expanding into new industries and tackling diverse challenges. 
+
 ## Education
 - M.S. Applied Data Science, Syracuse University
 - M.A. Strategic Public Relations, University of Southern California
