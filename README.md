@@ -13,7 +13,8 @@
 - Completed a concise executive summary for BCG Associate Director, delivering actionable insights for informed decison-making based on analysis.
 
 **This is a certifief BCG Data Science Job Simulation on Forage.**
-![]
+
+![alt texgt](certificate.png)
 
 ## Project 2 Regression
 xxxxx
