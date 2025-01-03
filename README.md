@@ -12,7 +12,7 @@
 - Completed the feature engineering and optimization of a random forest model, achieving a 90% accuracy rate in predicting customer churn. Conducted further evaluations on a confusion matrix, the precision and recall scores, and importance of different features.
 - Completed a concise executive summary for BCG Associate Director, delivering actionable insights for informed decison-making based on analysis.
 
-**This is a certifief BCG Data Science Job Simulation on Forage.**
+**This is a certificate BCG Data Science Job Simulation on Forage.**
 
 ![alt text](certificate.png) 
 
