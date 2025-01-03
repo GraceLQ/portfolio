@@ -19,7 +19,7 @@ With over 10 years of marketing and business consulting experience in healthcare
 - Completed the feature engineering and optimization of a random forest model, achieving a 90% accuracy rate in predicting customer churn. Conducted further evaluations on a confusion matrix, the precision and recall scores, and importance of different features.
 - Completed a concise executive summary for BCG Associate Director, delivering actionable insights for informed decison-making based on analysis.
 
-**[This is a certificate BCG Data Science Job Simulation on Forage.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_YGFsgu2Mqfs5SNxrW_1735360236276_completion_certificate.pdf)**
+**[This is a certified BCG Data Science Job Simulation on Forage.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_YGFsgu2Mqfs5SNxrW_1735360236276_completion_certificate.pdf)**
 
 ![alt text](certificate.png) 
 
