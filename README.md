@@ -14,7 +14,7 @@
 
 **This is a certifief BCG Data Science Job Simulation on Forage.**
 
-![alt texgt](certificate.png)
+![alt text](certificate.png) 
 
 ## Project 2 Regression
 xxxxx
