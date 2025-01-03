@@ -1,5 +1,5 @@
 ## About Me
-I'm a data Scientist with dual master’s degrees in Applied Data Science and Communication, blending technical expertise with compelling storytelling to transform complex data into actionable insights. 
+I'm a data scientist with dual master’s degrees in Applied Data Science and Communication, blending technical expertise with compelling storytelling to transform complex data into actionable insights. 
 
 Proficient in Python, R, SQL, Power BI, Google Looker Studio, Google Analytics, and digital advertising platforms, I bring a results-oriented approach to leveraging data to empower organizations and drive measurable success.
 
