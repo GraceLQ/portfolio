@@ -17,9 +17,9 @@ Proficient in Python, R, SQL, MySQL, Power BI, Google Looker Studio, Google Anal
 ## [Project 1 - Customer Churn Prediction with a Classification Model](https://github.com/GraceLQ/BCG_Customer_Churn_Classification.git)
 
 - Completed a customer churn analysis simulation for PowerCo, identifying essential client data and outlining a strategic investigation approach.
-- Conducted efficient data analysis using Python, including Pandas and Numpy. Employed data visiualization techniques for insightful trend interpretion, including bar chart, line chart, histogram and heatmap.
+- Conducted efficient data analysis using Python, including Pandas and Numpy. Employed data visualization techniques for insightful trend interpretation, including bar chart, line chart, histogram and heatmap.
 - Completed the feature engineering and optimization of a **random forest model**, achieving a 90% accuracy rate in predicting customer churn. Conducted further evaluations on **a confusion matrix, the precision and recall scores, and importance of different features**.
-- Completed a concise executive summary for BCG Associate Director, delivering actionable insights for informed decison-making based on analysis.
+- Completed a concise executive summary for BCG Associate Director, delivering actionable insights for informed decision-making based on analysis.
 
 **[This is a certified BCG Data Science Job Simulation on Forage.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_YGFsgu2Mqfs5SNxrW_1735360236276_completion_certificate.pdf)**
 
