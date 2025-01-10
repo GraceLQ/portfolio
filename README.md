@@ -14,7 +14,7 @@ Proficient in Python, R, SQL, MySQL, Power BI, Google Looker Studio, Google Anal
   
 # Data Science Projects
 - Project 1: Customer Churn Prediction with a Classification Model
-- Project 2: Realtime Bitcoin Price API Scraping and Visualizion
+- Project 2: Stock and Crypto Price Analysis through API Integration and Web Scraping
 
 ## [Project 1 - Customer Churn Prediction with a Classification Model](https://github.com/GraceLQ/BCG_Customer_Churn_Classification.git)
 
@@ -27,13 +27,16 @@ Proficient in Python, R, SQL, MySQL, Power BI, Google Looker Studio, Google Anal
 
 ![alt text](certificate.png) 
 
-## [Project 2 - Realtime Bitcoin Price API Scraping and Visualization](https://github.com/GraceLQ/bitcoin_realtime_price)
+## [Project 2 - Stock and Crypto Price Analysis through API Integration and Web Scraping](https://github.com/GraceLQ/Stock_Crypto_Scraping_API)
 
 This project demonstrates how I scraped, processed, and visualized Bitcoin price data using the CoinGecko API via the Python wrapper PyCoinGecko. It retrieves Bitcoin price data for the previous 30 days, processes it into a structured DataFrame, and visualizes the results with an interactive HTML-based candlestick chart generated using Plotly.
+
+Additionally, web scraping was employed to extract revenue data for Tesla and GameStop from Macrotrends.com, and the Python library yfinance was utilized to retrieve their stock price data. The analysis compared price trends with revenue patterns to identify anomalies and profiled suspicious stock activities, such as short-selling patterns.
 
 - Worked with **RESTful APIs** for retrieving real-time and historical data.
 - Used Pandas for data manipulation, such as aggregating daily price metrics, and converting **time-series data**.
 - Created interactive candlestick charts using **Plotly**.
+- Used web scrapping techniques with libraries such as **BeautifulSoup** for extracting financial data from the internet. Used yfinance to fetch stock price and conduct financial analysis.
 
 ![alt_text](bitcoin_price_plotly.png)
-
+![alt_text](gamestop.png)
