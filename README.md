@@ -1,4 +1,6 @@
-## About Me ([LinkedIn](linkedin.com/in/grace-qi-luan))
+## About Me 
+LinkedIn: https://www.linkedin.com/in/grace-qi-luan/
+
 I'm a data scientist with **dual master’s degrees** in Applied Data Science and Communication, blending technical expertise with compelling storytelling to transform complex data into actionable insights. 
 
 With **over 10 years of experience in marketing and business consulting** across various industries, including healthcare, insurance, and consumer products, I excel in **data-informed decision-making and strategic consultation**. Passionate about leveraging my expertise to tackle diverse challenges, I am eager to explore new industries and deliver impactful results.
