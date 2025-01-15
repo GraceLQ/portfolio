@@ -14,7 +14,8 @@ Proficient in Python, R, SQL, MySQL, Power BI, Google Looker Studio, Google Anal
   
 # Data Science Projects
 - Project 1: Customer Churn Prediction with a Classification Model
-- Project 2: Stock and Crypto Price Analysis through API Integration and Web Scraping
+- Project 2: Credit Card Fraud Detection Using Decision Tree and SVM
+- Project 3: Stock and Crypto Price Analysis through API Integration and Web Scraping
 
 ## [Project 1 - Customer Churn Prediction with a Classification Model](https://github.com/GraceLQ/BCG_Customer_Churn_Classification.git)
 
@@ -27,7 +28,18 @@ Proficient in Python, R, SQL, MySQL, Power BI, Google Looker Studio, Google Anal
 
 ![alt text](certificate.png) 
 
-## [Project 2 - Stock and Crypto Price Analysis through API Integration and Web Scraping](https://github.com/GraceLQ/Stock_Crypto_Scraping_API)
+## [Project 2 - Credit Card Fraud Detection Using Decision Tree and SVM](https://github.com/GraceLQ/credit_card_fraud_detection_models)
+
+- Built a machine learning model to detect credit card fraud using a dataset of European transactions from September 2013, anonymized through Principal Component Analysis (PCA) for privacy while preserving essential patterns.
+- Addressed imbalanced data using SMOTE for oversampling and class weighting to enhance minority class representation.
+- Preprocessed data with StandardScaler and Normalizer to ensure consistency and scale for models.
+- Experimented with Decision Tree and Support Vector Machine (SVM) models, optimizing hyperparameters and focusing on precision-recall performance.
+- **Outcome:** The SVM with class weight adjustment delivered the best results, achieving an ROC AUC of 0.988 and an AUPRC of 0.769, demonstrating strong performance in handling fraud detection.
+- **Challenges:** Tackled class imbalance (fraud cases being a small fraction) and overlapping features between fraudulent and legitimate transactions. Future improvements include incorporating features like device fingerprinting, transaction location, and user behavior patterns for better precision and recall.
+
+![alt_text](models.png)
+
+## [Project 3 - Stock and Crypto Price Analysis through API Integration and Web Scraping](https://github.com/GraceLQ/Stock_Crypto_Scraping_API)
 
 This project demonstrates how I scraped, processed, and visualized Bitcoin price data using the CoinGecko API via the Python wrapper PyCoinGecko. It retrieves Bitcoin price data for the previous 30 days, processes it into a structured DataFrame, and visualizes the results with an interactive HTML-based candlestick chart generated using Plotly.
 
