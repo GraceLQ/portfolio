@@ -29,6 +29,7 @@ Proficient in Python, R, SQL, MySQL, Power BI, Tableau, Google Looker Studio, Go
 
 ![alt text](certificate.png) 
 
+
 ## [Project 2 - Credit Card Fraud Detection Using Decision Tree and SVM](https://github.com/GraceLQ/credit_card_fraud_detection_models)
 
 - Built a machine learning model to detect credit card fraud using a dataset of European transactions from September 2013, anonymized through Principal Component Analysis (PCA) for privacy while preserving essential patterns.
