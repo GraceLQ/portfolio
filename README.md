@@ -5,7 +5,7 @@ I'm a data scientist with **dual master’s degrees** in Applied Data Science an
 
 With **over 10 years of experience in marketing and business consulting** across various industries, including healthcare, insurance, and consumer products, I excel in **data-informed decision-making and strategic consultation**. Passionate about leveraging my expertise to tackle diverse challenges, I am eager to explore new industries and deliver impactful results.
 
-Proficient in Python, R, SQL, MySQL, Power BI, Google Looker Studio, Google Analytics, and digital advertising platforms, I bring a results-driven approach to every project.
+Proficient in Python, R, SQL, MySQL, Power BI, Tableau, Google Looker Studio, Google Analytics, and digital advertising platforms, I bring a results-driven approach to every project.
 
 ## Education
 - M.S. Applied Data Science, Syracuse University
