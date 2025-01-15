@@ -43,7 +43,7 @@ Proficient in Python, R, SQL, MySQL, Power BI, Google Looker Studio, Google Anal
 - Built a Ridge regression model with polynomial transformations and hyperparameter tuning, achieving an R² score of 0.783, while minimizing overfitting and enhancing predictive performance.
 - Identified smoker status as the most influential factor in pricing, followed by age and BMI, providing actionable insights for risk assessment and personalized premium design.
 - Recommended insurers focus on critical cost drivers, leveraging insights for targeted wellness programs and risk mitigation strategies, while avoiding overly penalizing certain demographics such as gender or region, which showed weaker influence.
-![alt_text](heat.png)
+![alt_text](heat1.png)
 
 ## [Project 4 - Stock and Crypto Price Analysis through API Integration and Web Scraping](https://github.com/GraceLQ/Stock_Crypto_Scraping_API)
 
